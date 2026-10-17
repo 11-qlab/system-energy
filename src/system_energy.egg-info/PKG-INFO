@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: system-energy
+Version: 0.1.0
+Summary: System-level energy comparison across post-CMOS technologies
+Author: 11-qlab
+License-Expression: Apache-2.0
+Project-URL: Homepage, https://github.com/11-qlab/system-energy
+Keywords: energy,computing,post-CMOS,system-level
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib

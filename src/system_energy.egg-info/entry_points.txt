@@ -1,0 +1,2 @@
+[console_scripts]
+system-energy = system_energy.cli:main
